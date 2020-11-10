@@ -1,14 +1,3 @@
-// const squ = function (x){
-//     return x + x
-// }
-
-// const squ = (x) =>{
-//     return x * x
-// }
-
-// const squ = (x) => x * x
-
-// console.log(squ(2))
 const event1 = {
     name : 'birthday',
     gustList: ['sujith','sanjay','thanush'],
